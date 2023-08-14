@@ -1,0 +1,167 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.resume-main {
+    background-color: chocolate;
+    padding: 20px;
+    height: 1470px;
+    width: 1110px;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+.resume-header {
+    background-color: burlywood;
+    display: flex;
+    height: 300px;
+    width: 1060px;
+    margin: auto;
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 30px;
+}
+
+img {
+    height: 210px;
+    width: 200px;
+    border-radius: 180px;
+    padding: 30px;
+    margin-left: 150px;
+}
+
+.resume-myMainInfo,
+h1,
+p,
+h4 {
+    padding: 15px;
+    margin-left: 25px;
+    font-size: 23px;
+    margin-top: 3px;
+}
+
+.resume-section {
+    background-color: burlywood;
+    display: flex;
+    height: 760px;
+    width: 1060px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 30px;
+}
+
+.resume-aside1 {
+    height: 740px;
+    width: 440px;
+    padding: 20px;
+    padding-top: 5px;
+    padding-left: 25px;
+    margin-left: 5px;
+}
+
+.resume-social {
+    height: 100px;
+    width: 440px;
+    padding: 5px;
+    padding-top: 5px;
+    font-size: 22px;
+}
+
+.resume-certify {
+    height: 100px;
+    width: 440px;
+    padding: 16px;
+    padding-top: 5px;
+    margin-top: 115px;
+    font-size: 22px;
+}
+
+.resume-personalDetail {
+    height: 100px;
+    width: 440px;
+    padding: 16px;
+    padding-top: 5px;
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+#hobby,
+#javaList,
+#advnJavaList {
+    margin-left: 27px;
+}
+
+#webList {
+    margin-left: 35px;
+}
+
+.resume-langKnown {
+    height: 100px;
+    width: 440px;
+    padding: 16px;
+    padding-top: 5px;
+    margin-top: 110px;
+    font-size: 23px;
+}
+
+.resume-aside2 {
+    height: 736px;
+    width: 460px;
+    padding: 20px;
+    padding-top: 10px;
+    padding-left: 25px;
+    margin-left: 5px;
+}
+
+.resume-career {
+    height: 100px;
+    width: 440px;
+    padding: 16px;
+    padding-top: 5px;
+    margin-top: 2px;
+    font-size: 25px;
+}
+
+.resume-skills {
+    height: 100px;
+    width: 440px;
+    padding: 16px;
+    padding-top: 5px;
+    margin-top: 90px;
+    font-size: 25px;
+}
+
+table {
+    background-color: burlywood;
+    width: 1090px;
+    border: 5px solid black;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+    border: 3px solid black;
+    
+}
+
+td {
+    font-size: 18px;
+}
+
+.colSize1 {
+    width: 35px;
+}
+
+.colSize2 {
+    width: 800px;
+}
+
+
